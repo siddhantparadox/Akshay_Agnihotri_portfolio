@@ -1,0 +1,23 @@
+body {
+    background-color: #1f2933 !important;
+    font-family: 'Open Sans', sans-serif !important;
+
+}
+
+.body-font {
+    color: #f8f8f8 !important;
+}
+
+.header-image {
+    width: 1400px;
+    margin: auto;
+}
+
+
+
+p {
+    color: aliceblue !important;
+}
+.rest-images{
+    margin-top: 2rem;
+}
